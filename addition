@@ -1,1 +1,3 @@
 
+input ("Enter first number")
+input ("Enter second number")
